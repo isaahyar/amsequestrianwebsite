@@ -1,2 +1,2 @@
-# amsequestrianwebsite
-This an AMS Equestrian website using mobirise.  
+# Overview
+This an AMS Equestrian website built using mobirise. 
